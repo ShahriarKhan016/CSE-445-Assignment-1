@@ -1,0 +1,6 @@
+tracker,frame_index,frame_path,n_pred_tracks,n_gt_objects,id_switches,lost_tracks,false_positives,false_negatives,error_score
+BoT-SORT,1,/kaggle/working/bd_traffic_assignment/yolo_dataset_augmented/test/images/000001_frame109_jpg.rf.22e5a37a9ae6c6afb6bee83da98d8a8a.jpg,4,15,0,2,0,11,13
+ByteTrack,1,/kaggle/working/bd_traffic_assignment/yolo_dataset_augmented/test/images/000001_frame109_jpg.rf.22e5a37a9ae6c6afb6bee83da98d8a8a.jpg,4,15,0,1,0,11,12
+RF-DETR+SORT,7,/kaggle/working/bd_traffic_assignment/yolo_dataset_augmented/test/images/000007_frame166_jpg.rf.2ee8b3d7cd1d07015517a963cec76cd6.jpg,5,14,0,0,3,12,15
+SORT,5,/kaggle/working/bd_traffic_assignment/yolo_dataset_augmented/test/images/000005_frame149_jpg.rf.4193678579eaea1de139f47a120cef4f.jpg,1,13,0,0,1,13,14
+SimpleIoU,3,/kaggle/working/bd_traffic_assignment/yolo_dataset_augmented/test/images/000003_frame128_jpg.rf.44ebb4e9f6614ed065183a2bdbf968df.jpg,9,10,0,0,3,4,7
